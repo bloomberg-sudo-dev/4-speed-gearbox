@@ -1,1 +1,3 @@
-# cnc-tape-plotter
+# 4 Speed Gearbox
+
+Code and STLs included.
